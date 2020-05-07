@@ -3,6 +3,7 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/[Ll]ogs/
 /Assets/AssetStoreTools*
 /test-report
 
@@ -19,6 +20,9 @@ ExportedObj/
 *.booproj
 *.svd
 
+# Visual Studio cache directory
+.vs/
+.vscode/
 
 # Unity3D generated meta files
 *.pidb.meta
